@@ -4,7 +4,7 @@
 
 ## Description
 
-test
+We created a simple Note Taker app using express and uniqid that allows the user to make, save and delete notes.
 
 ## Table of Contents
 
